@@ -1,0 +1,8 @@
+pandas
+requests
+numpy
+scipy
+io
+packaging
+seaborn
+scikit-learn
